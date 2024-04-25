@@ -9,6 +9,8 @@ public class two_sum {
         int sumOfNumbers = firstNumber + secondNumber;
 
         System.out.println(sumOfNumbers);
+
+        //Fixed the bug
     }
 
     public static void SubtractTwoNumbers(int firstNumber, int secondNumber){
