@@ -8,8 +8,7 @@ public class two_sum {
     public static void AddTwoNumbers(int firstNumber, int secondNumber){
         int sumOfNumbers = firstNumber + secondNumber;
 
-       // System.out.println(sumOfNumbers);  
-       // Introducing Bug
+        System.out.println(sumOfNumbers);
     }
 
     public static void SubtractTwoNumbers(int firstNumber, int secondNumber){
